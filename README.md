@@ -1,2 +1,3 @@
 # location-temperature.github.io
-&lt;location-temperature> Web Component
+
+# See: https://github.com/city-temperature/city-temperature.github.io
